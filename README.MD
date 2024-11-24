@@ -12,6 +12,8 @@ ________________________________________________________________________________
 ### Introduction
 The <a href="https://www.udc.edu" target="_blank">University of the District of Columbia</a> Website came online almost 30 years ago, and I'm going to assume that for most of that time, UDC has had some presence on the web via a website. Today, we will investigate the website's current version and highlight three good and lousy design features. We will highlight all the guidelines they violate or adhere to using the guidelines, principles, and theories outlined in Chapter 2.
 
+### Design Flaws
+
 ### Design Flaw - Inconsistent Navigational Bar
 ![Inconsistent Design Example](images/inconsistent-navbar.gif)
 
@@ -83,3 +85,15 @@ Here is the corrected code:
        id="firs-name" aria-required="true" aria-invalid="false" value="" 
        type="text" name="first-name">
 `````
+
+### Design Strength - Responsive Website
+![Website Displayed on the iPhone 14 Pro Max](/images/iPhone-14-ProMax.png)
+
+Several guidelines govern the display of websites. A responsive website that adapts to various devices is essential to ensure an optimal user experience across different platforms. The World Wide Web Consortium (W3C) has established the [Web Content Accessibility Guidelines (WCAG)](), specifically [WCAG 2.1](https://www.w3.org/TR/WCAG21/) - Guideline 1.4.10, which stipulates that content must be presented without requiring horizontal scrolling or loss of information when viewed at a width of 320 pixels. This requirement ensures usability on smaller devices, such as smartphones.
+Furthermore, [UDC’s website](https://www.udc.edu) conforms to [Shneiderman’s Rule 7: Support Flexibility and Efficiency of Use](https://www.cs.umd.edu/~ben/goldenrules.html). Responsive design accommodates different devices and screen sizes, offering flexibility for users accessing the site on mobile devices, tablets, or desktops.
+The [NCI Digital Standards: Mobile and Responsive Design](https://www.cancer.gov/digital-standards/web-standards/responsive-design) emphasize prioritizing a responsive layout to cater to all users, regardless of device. This approach ensures that content and navigation remain accessible on screens of varying sizes.
+
+### Design Strength - Accessible Navigation with Keyboard
+![Keyboard Navigation on UDC.EDU](/images/keyboard-navigation.gif)
+
+
