@@ -2,11 +2,16 @@ ________________________________________________________________________________
 
 ##### Hugh Smith and Monique Boyd
 ##### Human Computer Interaction
-##### Assignment 2
+#### November 23, 2024
+##### Assignment 3
 
 ________________________________________________________________________________________________________________________
 
+<div align="center">
+  
 #### Evaluation of UDC.EDU Using Design Guidelines and Principles
+
+</div>
 
 
 ### Introduction
@@ -88,12 +93,12 @@ Here is the corrected code:
 ![Website Displayed on the iPhone 14 Pro Max](/images/iPhone-14-ProMax.png)
 
 Several guidelines govern the display of websites. A responsive website that adapts to various devices is essential to ensure an optimal user experience across different platforms. The World Wide Web Consortium (W3C) has established the [Web Content Accessibility Guidelines (WCAG)](), specifically [WCAG 2.1](https://www.w3.org/TR/WCAG21/) - Guideline 1.4.10, which stipulates that content must be presented without requiring horizontal scrolling or loss of information when viewed at a width of 320 pixels. This requirement ensures usability on smaller devices, such as smartphones.
-Furthermore, [UDC’s website](https://www.udc.edu) conforms to [Shneiderman’s Rule 7: Support Flexibility and Efficiency of Use](https://www.cs.umd.edu/~ben/goldenrules.html). Responsive design accommodates different devices and screen sizes, offering flexibility for users accessing the site on mobile devices, tablets, or desktops.
+Furthermore, [UDC’s website](https://www.udc.edu) conforms to [Shneiderman’s Rule 2: Seek universal usability](https://www.cs.umd.edu/~ben/goldenrules.html). Responsive design accommodates different devices and screen sizes, offering flexibility for users accessing the site on mobile devices, tablets, or desktops.
 The [NCI Digital Standards: Mobile and Responsive Design](https://www.cancer.gov/digital-standards/web-standards/responsive-design) emphasize prioritizing a responsive layout to cater to all users, regardless of device. This approach ensures that content and navigation remain accessible on screens of varying sizes.
 
 ### Supporting Principles and Theories
 - [Web Content Accessibility Guidelines (WCAG)WCAG 2.1 - Guideline 1.4.10.](https://www.w3.org/TR/WCAG21/)
-- [Shneiderman’s Rule 7](https://www.cs.umd.edu/users/ben/goldenrules.html)
+- [Shneiderman’s Rule 2](https://www.cs.umd.edu/users/ben/goldenrules.html)
 - [NCI Digital Standards: Mobile and Responsive Design](https://www.cancer.gov/digital-standards#mobile-website-and-application-standards)
 
 
@@ -124,3 +129,16 @@ Providing alt text supports universal design, ensuring accessibility for users w
 - [Web Content Accessibility Guidelines (WCAG), specifically WCAG 2.1 - Guideline 1.1.1 (Non-text Content)](https://www.w3.org/WAI/WCAG21/Understanding/non-text-content)
 - [Americans with Disabilities Act (ADA) Title III Accessibility Requirements](https://www.ada.gov/law-and-regs/regulations/title-iii-regulations/)
 - [National Cancer Institute Digital Standards – Accessibility guidelines](https://www.cancer.gov/digital-standards#accessibility-policy-section-508-compliance)
+
+
+### References
+
+1. World Wide Web Consortium (W3C). (2018). Web Content Accessibility Guidelines (WCAG) 2.1. Retrieved from https://www.w3.org/TR/WCAG21/
+2. United States General Services Administration. (n.d.). Section 508 Standards: Accessibility for Information and Communication Technology (ICT). Retrieved from https://www.section508.gov/
+3. Shneiderman, B. (n.d.). Shneiderman’s Eight Golden Rules of Interface Design. University of Maryland. Retrieved from https://www.cs.umd.edu/~ben/goldenrules.html
+4. National Cancer Institute. (n.d.). Digital Standards: Mobile and Responsive Design. Retrieved from https://www.cancer.gov/digital-standards/web-standards/responsive-design
+5. National Cancer Institute. (n.d.). Digital Standards: Form Design and Accessibility. Retrieved from https://www.cancer.gov/digital-standards/web-standards/forms
+6. WebAIM. (n.d.). Contrast Checker. Retrieved from https://webaim.org/resources/contrastchecker/
+7. Google Developers. (n.d.). PageSpeed Insights. Retrieved from https://pagespeed.web.dev/
+8. Axe Accessibility. (n.d.). Axe DevTools Accessibility Checker. Retrieved from https://www.deque.com/axe/
+9. National Cancer Institute. (n.d.). Digital Standards: Content Usability. Retrieved from https://www.cancer.gov/digital-standards/web-standards/usability
