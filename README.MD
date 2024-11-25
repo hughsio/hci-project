@@ -12,8 +12,6 @@ ________________________________________________________________________________
 ### Introduction
 The <a href="https://www.udc.edu" target="_blank">University of the District of Columbia</a> Website came online almost 30 years ago, and I'm going to assume that for most of that time, UDC has had some presence on the web via a website. Today, we will investigate the website's current version and highlight three good and lousy design features. We will highlight all the guidelines they violate or adhere to using the guidelines, principles, and theories outlined in Chapter 2.
 
-### Design Flaws
-
 ### Design Flaw - Inconsistent Navigational Bar
 ![Inconsistent Design Example](images/inconsistent-navbar.gif)
 
@@ -39,7 +37,7 @@ Such inconsistencies can particularly confuse novice users, who may need to re-a
 
 ### Guidelines Violated
 The UDC website contains numerous images essential for conveying the message of each functional unit of the University. To effectively communicate these messages, the images must be high quality and visually pleasing. However, [UDC’s Campus Master Plan Page](https://www.udc.edu/facilities/campus-master-plan/) does not adhere to several design guidelines. These include the [National Cancer Institute’s Visual Standards](https://www.cancer.gov/digital-standards), which mandate that visual elements be professional and aesthetically pleasing, ensuring clarity and accessibility.
-Additionally, the page violates [Web Content Accessibility Guidelines (WCAG) 1.4.5](https://www.w3.org/WAI/WCAG21/quickref/#images-of-text) (Images of Text): If an image contains text that becomes illegible due to blurriness, it directly contravenes accessibility standards. Lastly, it breaches [Shneiderman’s Rule 3](https://www.cs.umd.edu/users/ben/goldenrules.html) (Offer Informative Feedback): "Blurred images fail to convey clear, accurate information, diminishing the website’s usability." They images detract from a website's overall quality and professionalism, leading to multiple negative effects. They undermine the user's trust and confidence in the website. When unclear images, users might perceive the website as poorly maintained or untrustworthy, which can drive them away.
+Additionally, the page violates [Web Content Accessibility Guidelines (WCAG) 1.4.5](https://www.w3.org/WAI/WCAG21/quickref/#images-of-text) (Images of Text): If an image contains text that becomes illegible due to blurriness, it directly contravenes accessibility standards. Lastly, it breaches [Shneiderman’s Rule 3](https://www.cs.umd.edu/users/ben/goldenrules.html) (Offer Informative Feedback): "Blurred images fail to convey clear, accurate information, diminishing the website’s usability." They images detract from a website's overall quality and professionalism, leading to multiple adverse effects. They undermine the user's trust and confidence in the website. When images are clear, users might perceive the website as poorly maintained or untrustworthy, which can drive them away.
 
 #### Supporting Principles and Theories
 
