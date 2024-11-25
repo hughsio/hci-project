@@ -93,7 +93,36 @@ Several guidelines govern the display of websites. A responsive website that ada
 Furthermore, [UDC’s website](https://www.udc.edu) conforms to [Shneiderman’s Rule 7: Support Flexibility and Efficiency of Use](https://www.cs.umd.edu/~ben/goldenrules.html). Responsive design accommodates different devices and screen sizes, offering flexibility for users accessing the site on mobile devices, tablets, or desktops.
 The [NCI Digital Standards: Mobile and Responsive Design](https://www.cancer.gov/digital-standards/web-standards/responsive-design) emphasize prioritizing a responsive layout to cater to all users, regardless of device. This approach ensures that content and navigation remain accessible on screens of varying sizes.
 
+### Supporting Principles and Theories
+- [Web Content Accessibility Guidelines (WCAG)WCAG 2.1 - Guideline 1.4.10.](https://www.w3.org/TR/WCAG21/)
+- [Shneiderman’s Rule 7](https://www.cs.umd.edu/users/ben/goldenrules.html)
+- [NCI Digital Standards: Mobile and Responsive Design](https://www.cancer.gov/digital-standards#mobile-website-and-application-standards)
+
+
+
 ### Design Strength - Accessible Navigation with Keyboard
 ![Keyboard Navigation on UDC.EDU](/images/keyboard-navigation.gif)
 
 Many users rely exclusively on keyboards to navigate websites, including individuals with motor disabilities, visual impairments (using screen readers), or temporary physical limitations, such as a broken arm. The UDC website is designed to be fully navigable using only a keyboard. Our testing involved using the Tab and Shift-Tab keys, which can enhance navigation efficiency for advanced users who prefer keyboard shortcuts. Supporting keyboard navigation on a website signifies compliance with global and federal accessibility standards. The [Web Content Accessibility Guidelines (WCAG), specifically WCAG 2.1 - Guideline 2.1.1 (Keyboard Accessibility)](https://www.w3.org/WAI/WCAG21/Understanding/keyboard-accessible), stress that all website functionality is operable through a keyboard without a mouse. This also complies with the [United States Rehabilitation Act of 1973, Section 508](https://www.section508.gov/) standards mandates that electronic content, including menus and links, is accessible to users who cannot operate a mouse. 
+
+### Supporting Principles and Theories
+- [Web Content Accessibility Guidelines (WCAG) WCAG 2.1 - Guideline 2.1.1 (Keyboard Accessibility)](https://www.w3.org/WAI/WCAG21/Understanding/keyboard-accessible)
+- [United States Rehabilitation Act of 1973, Section 508](https://www.section508.gov/)
+
+
+## Design Strength - Alternative Texts
+![Alternative Text on Dr. April Massey's Bio page](/images/alt-text.png)
+
+Screen readers help many users with visual impairments understand a website's content. For these users, alternative text (alt text) provides a textual description of images, allowing screen readers to announce the content or purpose of the image. Additionally, alt text is helpful when images fail to load, providing users context about the missing visual elements.
+
+UDC’s website uses alt text for all non-decorative images, ensuring that users relying on assistive technologies can understand the meaning of visuals. Our testing included inspecting the website’s HTML for the presence of alt attributes and using a screen reader to verify that image descriptions were announced correctly. This approach improves accessibility for visually impaired users while benefiting all users when images cannot be displayed due to slow network connections.
+
+Including alternative text on images aligns with global and federal accessibility standards. The [Web Content Accessibility Guidelines (WCAG), specifically WCAG 2.1 - Guideline 1.1.1 (Non-text Content)](https://www.w3.org/WAI/WCAG21/Understanding/non-text-content), emphasize providing text alternatives for all non-text content to make websites accessible. Furthermore, compliance with the [United States Rehabilitation Act of 1973](https://www.section508.gov/), Section 508 requires that all images convey equivalent information through alternative formats. It also complies with the [Americans with Disabilities Act (ADA) Title III Accessibility Requirements](https://www.ada.gov/law-and-regs/regulations/title-iii-regulations/) and the [National Cancer Institute Digital Standards – Accessibility guidelines](https://www.cancer.gov/digital-standards#accessibility-policy-section-508-compliance). 
+
+Providing alt text supports universal design, ensuring accessibility for users with visual impairments, slow internet connections, and those using assistive technologies. It also helps websites comply with accessibility standards like WCAG, Section 508, and other global regulations.
+
+
+### Supporting Principles and Theories
+- [Web Content Accessibility Guidelines (WCAG), specifically WCAG 2.1 - Guideline 1.1.1 (Non-text Content)](https://www.w3.org/WAI/WCAG21/Understanding/non-text-content)
+- [Americans with Disabilities Act (ADA) Title III Accessibility Requirements](https://www.ada.gov/law-and-regs/regulations/title-iii-regulations/)
+- [National Cancer Institute Digital Standards – Accessibility guidelines](https://www.cancer.gov/digital-standards#accessibility-policy-section-508-compliance)
